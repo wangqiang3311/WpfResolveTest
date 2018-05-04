@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<case title="sth," author="" bibType="">
+  <item title="Self-taught hashing for fast similarity search">
+    <field content="ReferenceCount：0" />
+    <field content="题录Url： http://doi.acm.org/10.1145/1835449.1835455" />
+    <field content="用户自定义字符串1（必须有值，暂时放题录URL）： http://doi.acm.org/10.1145/1835449.1835455" />
+    <field content="题录类型：Conference" />
+    <field content="题录标题： Self-taught Hashing for Fast Similarity Search" />
+    <field content="题录媒体： Proceedings of the 33rd International ACM SIGIR Conference on Research and Development in Information Retrieval" />
+    <field content="年：2010" />
+    <field content="期： Geneva, Switzerland" />
+    <field content="题录DOI： 10.1145/1835449.1835455" />
+    <field content="作者全名： Zhang" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Dell and Wang" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Jun and Cai" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Deng and Lu" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Jinsong" />
+    <field content="是否为作者机构：False" />
+    <field content="Keywords： laplacian eigenmap; semantic hashing; similarity search; support vector machine" />
+    <field content="题录页面范围： 18-25" />
+    <field content="题录出版地： New York, NY, USA" />
+    <field content="题录出版社： ACM" />
+  </item>
+  <item title="A New Paradigm for Teaching Mobile Application Development">
+    <field content="ReferenceCount：0" />
+    <field content="题录Url： http://doi.acm.org/10.1145/2910925.2910937" />
+    <field content="用户自定义字符串1（必须有值，暂时放题录URL）： http://doi.acm.org/10.1145/2910925.2910937" />
+    <field content="题录类型：Conference" />
+    <field content="题录标题： A New Paradigm for Teaching Mobile Application Development" />
+    <field content="题录媒体： Proceedings of the 21st Western Canadian Conference on Computing Education" />
+    <field content="年：2016" />
+    <field content="期： Kamloops, BC, Canada" />
+    <field content="题录DOI： 10.1145/2910925.2910937" />
+    <field content="作者全名： Khmelevsky" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Youry and Voytenko" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Volodymyr" />
+    <field content="是否为作者机构：False" />
+    <field content="Keywords： Algorithms; Design; Experimentation; Human Factors; Languages; Performance; Reliability; Security; Standardization; Verification" />
+    <field content="题录页面范围： 8:1-8:6" />
+    <field content="题录出版地： New York, NY, USA" />
+    <field content="题录出版社： ACM" />
+  </item>
+</case>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<case title="woman" author="" bibType="">
+  <item title=" Design and Implementation of Quantitative Nutritional Guidance System for Pregnant Woman">
+    <field content="ReferenceCount：0" />
+    <field content="题录Url： https://doi.org/10.1109/CSSE.2008.419" />
+    <field content="用户自定义字符串1（必须有值，暂时放题录URL）： https://doi.org/10.1109/CSSE.2008.419" />
+    <field content="题录类型：Conference" />
+    <field content="题录标题： Design and Implementation of Quantitative Nutritional Guidance System for Pregnant Woman" />
+    <field content="题录媒体： Proceedings of the 2008 International Conference on Computer Science and Software Engineering - Volume 04" />
+    <field content="年：2008" />
+    <field content="题录DOI： 10.1109/CSSE.2008.419" />
+    <field content="作者全名： Bo" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Chen and Le" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Wang and Xiu-e" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Gao and Juanjuan" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Yan" />
+    <field content="是否为作者机构：False" />
+    <field content="Keywords： system analysis; nutritional guidance; pregnant woman; quantification; 6-electrode method" />
+    <field content="题录页面范围： 667-671" />
+    <field content="题录出版地： Washington, DC, USA" />
+    <field content="题录出版社： IEEE Computer Society" />
+  </item>
+  <item title=" BP Neural Network to Distinguish Pregnant Woman by Arterial Pressure Pulse Waveform Analysis">
+    <field content="ReferenceCount：0" />
+    <field content="题录Url： http://dx.doi.org/10.1109/IIH-MSP.2008.253" />
+    <field content="用户自定义字符串1（必须有值，暂时放题录URL）： http://dx.doi.org/10.1109/IIH-MSP.2008.253" />
+    <field content="题录类型：Conference" />
+    <field content="题录标题： BP Neural Network to Distinguish Pregnant Woman by Arterial Pressure Pulse Waveform Analysis" />
+    <field content="题录媒体： Proceedings of the 2008 International Conference on Intelligent Information Hiding and Multimedia Signal Processing" />
+    <field content="年：2008" />
+    <field content="题录DOI： 10.1109/IIH-MSP.2008.253" />
+    <field content="作者全名： Wang" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Lu and Wen" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Dianzhong" />
+    <field content="是否为作者机构：False" />
+    <field content="Keywords： BP neural network; arterial pressure pulse waveform; pregnant woman; ZMC-?" />
+    <field content="题录页面范围： 1463-1466" />
+    <field content="题录出版地： Washington, DC, USA" />
+    <field content="题录出版社： IEEE Computer Society" />
+  </item>
+</case>

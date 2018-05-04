@@ -1,0 +1,14 @@
+D:\mywork\ConsoleApplication1\WpfReovlveTest\bin\Release\WpfReovlveTest.exe
+D:\mywork\ConsoleApplication1\WpfReovlveTest\bin\Release\WpfReovlveTest.pdb
+D:\mywork\ConsoleApplication1\WpfReovlveTest\obj\Release\WpfReovlveTest.csprojResolveAssemblyReference.cache
+D:\mywork\ConsoleApplication1\WpfReovlveTest\obj\Release\MainWindow.baml
+D:\mywork\ConsoleApplication1\WpfReovlveTest\obj\Release\MainWindow.g.cs
+D:\mywork\ConsoleApplication1\WpfReovlveTest\obj\Release\App.g.cs
+D:\mywork\ConsoleApplication1\WpfReovlveTest\obj\Release\WpfReovlveTest_MarkupCompile.cache
+D:\mywork\ConsoleApplication1\WpfReovlveTest\obj\Release\WpfReovlveTest.g.resources
+D:\mywork\ConsoleApplication1\WpfReovlveTest\obj\Release\WpfReovlveTest.Properties.Resources.resources
+D:\mywork\ConsoleApplication1\WpfReovlveTest\obj\Release\WpfReovlveTest.csproj.GenerateResource.Cache
+D:\mywork\ConsoleApplication1\WpfReovlveTest\obj\Release\WpfReovlveTest.exe
+D:\mywork\ConsoleApplication1\WpfReovlveTest\obj\Release\WpfReovlveTest.pdb
+D:\mywork\ConsoleApplication1\WpfReovlveTest\obj\Release\TestCaseUserControl.baml
+D:\mywork\ConsoleApplication1\WpfReovlveTest\obj\Release\TestCaseUserControl.g.cs

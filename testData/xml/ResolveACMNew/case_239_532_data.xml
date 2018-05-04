@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<case title="map&amp;" author="" bibType="">
+  <item title="An efficient collaborative intrusion detection system for MANET using Bayesian Approach">
+    <field content="ReferenceCount：0" />
+    <field content="题录Url： http://doi.acm.org/10.1145/1164717.1164750" />
+    <field content="用户自定义字符串1（必须有值，暂时放题录URL）： http://doi.acm.org/10.1145/1164717.1164750" />
+    <field content="题录类型：Conference" />
+    <field content="题录标题： An Efficient Collaborative Intrusion Detection System for MANET Using Bayesian Approach" />
+    <field content="题录媒体： Proceedings of the 9th ACM International Symposium on Modeling Analysis and Simulation of Wireless and Mobile Systems" />
+    <field content="年：2006" />
+    <field content="期： Terromolinos, Spain" />
+    <field content="题录DOI： 10.1145/1164717.1164750" />
+    <field content="作者全名： Rezaul Karim" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： A. H. M. and Rajatheva" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： R. M. A. P. and Ahmed" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Kazi M." />
+    <field content="是否为作者机构：False" />
+    <field content="Keywords： Bayesian approach; MANET; intrusion detection system" />
+    <field content="题录页面范围： 187-190" />
+    <field content="题录出版地： New York, NY, USA" />
+    <field content="题录出版社： ACM" />
+  </item>
+</case>

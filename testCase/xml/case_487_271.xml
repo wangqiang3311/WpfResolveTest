@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<case title="Deformable respiratory motion correction for hepatic rotational angiography" author="" bibType="">
+  <item title="Deformable respiratory motion correction for hepatic rotational angiography">
+    <field content="ReferenceCount：0" />
+    <field content="题录Url：http://www.ncbi.nlm.nih.gov/pubmed/29573582" />
+    <field content="用户自定义字符串1（必须有值，暂时放题录URL）：http://www.ncbi.nlm.nih.gov/pubmed/29573582" />
+    <field content="题录类型：Journal" />
+    <field content="题录标题：Deformable respiratory motion correction for hepatic rotational angiography" />
+    <field content="题录媒体：Computerized medical imaging and graphics : the official journal of the Computerized Medical Imaging Society" />
+    <field content="题录ISSN：1879-0771" />
+    <field content="年：2018" />
+    <field content="卷：66" />
+    <field content="题录DOI：10.1016/j.compmedimag.2018.03.003" />
+    <field content="作者全名：Klugmann Alexandra" />
+    <field content="作者机构：Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany." />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名：Bier Bastian" />
+    <field content="作者机构：Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany." />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名：Müller Kerstin" />
+    <field content="作者机构：Radiological Sciences Lab, Stanford University, United States." />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名：Maier Andreas" />
+    <field content="作者机构：Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany." />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名：Unberath Mathias" />
+    <field content="作者机构：Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany; Computer Aided Medical Procedures, Johns Hopkins University, United States. Electronic address: unberath@jhu.edu." />
+    <field content="是否为作者机构：False" />
+    <field content="Keywords：Discrete optimization;Image reconstruction;Interventional imaging;Motion modeling" />
+    <field content="Abstract：Cone-beam rotational angiography enables 3D imaging of the hepatic vasculature and is considered beneficial for guidance of transcatheter arterial chemoembolization procedures. Respiratory motion during the rotational acquisition challenges state-of-the-art reconstruction algorithms as intra-scan motion leads to inconsistencies causing substantial blurring and streaking artifacts in uncompensated reconstructions, suggesting the need for motion correction. We propose an automated method for respiratory motion estimation and compensation based on registration of an initial 3D arterial model to vesselness enhanced 2D projection images. Centerline points of the arterial tree are modeled as B-splines over time, the control point positions of which are optimized using α-expansion moves on graph cuts. This approach naturally allows for the estimation of 3D rigid translations as well as non-rigid deformations. Applied to a pre-clinical and a clinical acquisition, the proposed methods resulted in notable reductions in reprojection error and increased vessel sharpness that are reflected in less streaking and blurring artifact compared to the uncompensated case, implying superior vessel contrast. As the proposed methods are generic, future work will investigate their applicability to related rotational angiography imaging protocols, such as coronary angiography.Copyright © 2018 Elsevier Ltd. All rights reserved." />
+    <field content="题录页面范围：82-89" />
+  </item>
+</case>

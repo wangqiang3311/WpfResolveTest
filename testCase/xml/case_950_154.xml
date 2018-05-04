@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<case title="c++" author="" bibType="">
+  <item title=" A Denotational Tracing Domain for C++ Programs">
+  </item>
+  <item title=" A New Iteration Mechanism for the C++ Programming Language">
+  </item>
+  <item title=" Looking Glass: A C++ Library for Testing Student Programs Through Reflection">
+  </item>
+  <item title=" Refactoring Support for the C++ Development Tooling">
+  </item>
+  <item title=" Sorting out the Relationships Between Pairs of Iterators, Values, and References">
+  </item>
+  <item title=" Formalizing Address Spaces with Application to Cuda, OpenCL, and Beyond">
+  </item>
+  <item title=" Perflint: A Context Sensitive Performance Advisor for C++ Programs">
+  </item>
+  <item title=" Debugging C++ Template Metaprograms">
+  </item>
+  <item title=" Research-led Innovation in Teaching and Learning Programming">
+  </item>
+  <item title=" Sierra: A SIMD Extension for C++">
+  </item>
+  <item title=" C++ Style Class Support Under FIG Forth">
+  </item>
+  <item title=" A Code Snippet Library for CS1">
+  </item>
+  <item title=" Open Pattern Matching for C++">
+  </item>
+  <item title=" Garbage Collection in the Next C++ Standard">
+  </item>
+  <item title=" Scrap++: Scrap Your Boilerplate in C++">
+  </item>
+  <item title=" Portable Profiling and Tracing for Parallel, Scientific Applications Using C++">
+  </item>
+  <item title=" CUTE: C++ Unit Testing Easier">
+  </item>
+  <item title=" Toward Foundations for Type-reflective Metaprogramming">
+  </item>
+</case>

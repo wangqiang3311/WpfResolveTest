@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Resolves>
+  <Resolve Id="0" ShowName="请选择网站"  Name=""/>
+  <Resolve Id="1" ShowName="万方"  Name="ResolveWanFang"/>
+  <Resolve Id="2" ShowName="知网"  Name="ResolveCNKI"/>
+  <Resolve Id="3" ShowName="谷歌" Name="ResolveGoogle"/>
+  <Resolve Id="4" ShowName="Sciencedirect" Name= "ResolveSciencedirect"/>
+  <Resolve Id="5" ShowName="IEEE"  Name="ResolveIEEE"/>
+  <Resolve Id="6" ShowName="Springer" Name= "ResolveSpringer"/>
+  <Resolve Id="7" ShowName="Nstl"  Name="ResolveNstl"/>
+  <Resolve Id="8" ShowName="当当网"  Name="ResolveDangDang"/>
+  <Resolve Id="9" ShowName="PubMed" Name= "ResolvePubMed"/>
+  <Resolve Id="10" ShowName="IOPScience"  Name="ResolveIOPScience"/>
+  <Resolve Id="11" ShowName="ACM" Name= "ResolveACM"/>
+  <Resolve Id="12" ShowName="ACS"  Name="ResolveACS"/>
+  <Resolve Id="13" ShowName="中国专利"  Name="ResolveCNPAT"/>
+  <Resolve Id="14" ShowName="中国国家图书馆"  Name="ResolveNLC"/>
+  <Resolve Id="15" ShowName="ASCE Library" Name= "ResolveASCE"/>
+  <Resolve Id="16" ShowName="EI"  Name="ResolveEI"/>
+  <Resolve Id="17" ShowName="NRC"  Name="ResolveNRC"/>
+  <Resolve Id="18" ShowName="ASABE"  Name="ResolveASABE"/>
+  <Resolve Id="19" ShowName="GoogleType" Name= "ResolveGoogleType"/>
+  <Resolve Id="20" ShowName="SPIE" Name= "ResolveSPIE"/>
+  <Resolve Id="21" ShowName="OCLC"  Name="ResolveOCLC"/>
+  <Resolve Id="22" ShowName="OSA"  Name="ResolveOSA"/>
+  <Resolve Id="23" ShowName="Informaworld"  Name="ResolveInformaworld"/>
+  <Resolve Id="24" ShowName="JSTOR"  Name="ResolveJSTOR"/>
+  <Resolve Id="25" ShowName="Link" Name= "ResolveLink"/>
+  <Resolve Id="26" ShowName="Agris"  Name="ResolveAgris"/>
+  <Resolve Id="27" ShowName="Georef"  Name="ResolveGeoref"/>
+  <Resolve Id="28" ShowName="Nature"  Name="ResolveNature"/>
+  <Resolve Id="29" ShowName="PNAS"  Name="ResolvePNAS"/>
+  <Resolve Id="30" ShowName="Cqvip"  Name="ResolveCqvip"/>
+  <Resolve Id="31" ShowName="Refdoc"  Name="ResolveRefdoc"/>
+  <Resolve Id="31" ShowName="ACMNew"  Name="ResolveACMNew"/>
+  <Resolve Id="32" ShowName="APSNew"  Name="ResolveAPSNew"/>
+  <Resolve Id="33" ShowName="Emerald"  Name="ResolveEmerald"/>
+
+</Resolves>

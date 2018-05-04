@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<case title="c++" author="" bibType="">
+  <item title="C++">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： C++" />
+    <field content="年：2002" />
+    <field content="作者全名： Jeske" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Till" />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版地： Boston, MA, USA" />
+    <field content="题录出版社： Addison-Wesley Longman Publishing Co., Inc." />
+  </item>
+  <item title="C++">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： C++" />
+    <field content="年：2000" />
+    <field content="作者全名： Research \&amp; Education Association" />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版社： Research \&amp;amp; Education Association" />
+  </item>
+  <item title="Standardizing C++">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： C++ Gems" />
+    <field content="年：1996" />
+    <field content="作者全名： Stroustrup" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Bjarne" />
+    <field content="是否为作者机构：False" />
+    <field content="题录页面范围： 3-6" />
+    <field content="题录出版地： New York, NY, USA" />
+    <field content="题录出版社： SIGS Publications, Inc." />
+  </item>
+  <item title="Optimizing C++">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： Optimizing C++" />
+    <field content="年：1998" />
+    <field content="作者全名： Heller" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Steve" />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版地： Upper Saddle River, NJ, USA" />
+    <field content="题录出版社： Prentice-Hall, Inc." />
+  </item>
+  <item title="C++ XML">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： C++ XML" />
+    <field content="年：2001" />
+    <field content="作者全名： Arciniegas" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Fabio" />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版地： Thousand Oaks, CA, USA" />
+    <field content="题录出版社： New Riders Publishing" />
+  </item>
+  <item title="Absolute C++">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： Absolute C++" />
+    <field content="年：2009" />
+    <field content="作者全名： Savitch" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Walter" />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版地： USA" />
+    <field content="题录出版社： Addison-Wesley Publishing Company" />
+  </item>
+  <item title="Big C++">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： Big C++" />
+    <field content="年：2008" />
+    <field content="作者全名： Horstmann" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Cay S. and Budd" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Timothy A." />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版社： Wiley Publishing" />
+  </item>
+  <item title="Simple C++">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： Simple C++" />
+    <field content="年：1994" />
+    <field content="作者全名： Cogswell" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Jeffrey M." />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版地： Corte Madera, CA, USA" />
+    <field content="题录出版社： Waite Group Press" />
+  </item>
+  <item title="C ++ Programming">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： C ++ Programming" />
+    <field content="年：1991" />
+    <field content="作者全名： Holzner" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Steven" />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版地： Indianapolis, IN, USA" />
+    <field content="题录出版社： Sams" />
+  </item>
+  <item title="Portable C++">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： Portable C++" />
+    <field content="年：1996" />
+    <field content="作者全名： Giencke" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Patricia" />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版地： New York, NY, USA" />
+    <field content="题录出版社： McGraw-Hill, Inc." />
+  </item>
+  <item title="C++ Language">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： C++ Language" />
+    <field content="年：1999" />
+    <field content="作者全名： Bar" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Chart" />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版社： Bar Charts, Incorporated" />
+  </item>
+  <item title="Turbo C++">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： Turbo C++" />
+    <field content="年：1991" />
+    <field content="作者全名： Pohl" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Ira" />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版地： Redwood City, CA, USA" />
+    <field content="题录出版社： Benjamin-Cummings Publishing Co., Inc." />
+  </item>
+  <item title="C++ (Mastering)">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： C++ (Mastering)" />
+    <field content="年：1993" />
+    <field content="作者全名： Schildt" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Herbert" />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版社： Glencoe/McGraw-Hill" />
+  </item>
+  <item title="C++ FAQs">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： C++ FAQs" />
+    <field content="年：1998" />
+    <field content="作者全名： Cline" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Marshall P. and Girou" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Mike and Lomow" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Greg" />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版地： Boston, MA, USA" />
+    <field content="题录出版社： Addison-Wesley Longman Publishing Co., Inc." />
+  </item>
+  <item title="Using C++">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： Using C++" />
+    <field content="年：1989" />
+    <field content="作者全名： Eckel" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Bruce" />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版地： Berkeley, CA, USA" />
+    <field content="题录出版社： Osborne/McGraw-Hill" />
+  </item>
+  <item title="Learning C++">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： Learning C++" />
+    <field content="年：2004" />
+    <field content="作者全名： Whitehead" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Paul" />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版地： Sebastopol, CA, USA" />
+    <field content="题录出版社： O'Reilly \&amp;amp; Associates, Inc." />
+  </item>
+  <item title="Professional C++">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： Professional C++" />
+    <field content="年：2014" />
+    <field content="作者全名： Gregoire" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Marc" />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版地： Birmingham, UK, UK" />
+    <field content="题录出版社： Wrox Press Ltd." />
+  </item>
+  <item title="Absolute C++">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： Absolute C++" />
+    <field content="年：2001" />
+    <field content="作者全名： Savitch" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Walter" />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版地： Boston, MA, USA" />
+    <field content="题录出版社： Addison-Wesley Longman Publishing Co., Inc." />
+  </item>
+  <item title="Essential C++">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： Essential C++" />
+    <field content="年：2000" />
+    <field content="作者全名： Lippman" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Stanley B." />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版地： Boston, MA, USA" />
+    <field content="题录出版社： Addison-Wesley Longman Publishing Co., Inc." />
+  </item>
+  <item title="C++ Templates">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： C++ Templates" />
+    <field content="年：2002" />
+    <field content="作者全名： Vandevoorde" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： David and Josuttis" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Nicolai M." />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版地： Boston, MA, USA" />
+    <field content="题录出版社： Addison-Wesley Longman Publishing Co., Inc." />
+  </item>
+</case>

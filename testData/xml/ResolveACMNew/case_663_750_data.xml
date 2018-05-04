@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<case title="map&amp;" author="" bibType="">
+  <item title="Outsourcing Via Applications Service Providers (Asps)">
+    <field content="ReferenceCount：0" />
+    <field content="题录类型：Book" />
+    <field content="题录标题： Outsourcing Via Applications Service Providers (Asps)" />
+    <field content="年：2000" />
+    <field content="作者全名： MAP Staff" />
+    <field content="是否为作者机构：False" />
+    <field content="题录出版社： Management Advisory Publications" />
+  </item>
+  <item title="Mesh-based video coding for low bit-rate communications">
+    <field content="ReferenceCount：0" />
+    <field content="题录Url： http://dx.doi.org/10.1109/TCE.2006.1649687" />
+    <field content="用户自定义字符串1（必须有值，暂时放题录URL）： http://dx.doi.org/10.1109/TCE.2006.1649687" />
+    <field content="题录类型：Journal" />
+    <field content="题录标题： Mesh-based Video Coding for Low Bit-rate Communications" />
+    <field content="题录媒体： IEEE Trans. on Consum. Electron." />
+    <field content="题录ISSN： 0098-3063" />
+    <field content="年：2006" />
+    <field content="卷： 52" />
+    <field content="期： 2" />
+    <field content="题录DOI： 10.1109/TCE.2006.1649687" />
+    <field content="作者全名： Kocharoen" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： P. and Ahmed" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： K. M. and Rajatheva" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： R. M.A.P. and Fernando" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： W. A.C." />
+    <field content="是否为作者机构：False" />
+    <field content="题录页面范围： 611-620" />
+    <field content="题录出版地： Piscataway, NJ, USA" />
+    <field content="题录出版社： IEEE Press" />
+  </item>
+  <item title="MAC protocol for contacts from survivors in disaster areas using multi-hop wireless transmissions">
+    <field content="ReferenceCount：0" />
+    <field content="题录Url： http://dx.doi.org/10.1007/11599593_4" />
+    <field content="用户自定义字符串1（必须有值，暂时放题录URL）： http://dx.doi.org/10.1007/11599593_4" />
+    <field content="题录类型：Conference" />
+    <field content="题录标题： MAC Protocol for Contacts from Survivors in Disaster Areas Using Multi-hop Wireless Transmissions" />
+    <field content="题录媒体： Proceedings of the First Asian Internet Engineering Conference on Technologies for Advanced Heterogeneous Networks" />
+    <field content="年：2005" />
+    <field content="期： Bangkok, Thailand" />
+    <field content="题录DOI： 10.1007/11599593_4" />
+    <field content="作者全名： Saengudomlert" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Poompat and Ahmed" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Kazi M. and Rajatheva" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： R. M. A. P." />
+    <field content="是否为作者机构：False" />
+    <field content="题录页面范围： 46-56" />
+    <field content="题录出版地： Berlin, Heidelberg" />
+    <field content="题录出版社： Springer-Verlag" />
+  </item>
+  <item title="An efficient collaborative intrusion detection system for MANET using Bayesian Approach">
+    <field content="ReferenceCount：0" />
+    <field content="题录Url： http://doi.acm.org/10.1145/1164717.1164750" />
+    <field content="用户自定义字符串1（必须有值，暂时放题录URL）： http://doi.acm.org/10.1145/1164717.1164750" />
+    <field content="题录类型：Conference" />
+    <field content="题录标题： An Efficient Collaborative Intrusion Detection System for MANET Using Bayesian Approach" />
+    <field content="题录媒体： Proceedings of the 9th ACM International Symposium on Modeling Analysis and Simulation of Wireless and Mobile Systems" />
+    <field content="年：2006" />
+    <field content="期： Terromolinos, Spain" />
+    <field content="题录DOI： 10.1145/1164717.1164750" />
+    <field content="作者全名： Rezaul Karim" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： A. H. M. and Rajatheva" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： R. M. A. P. and Ahmed" />
+    <field content="是否为作者机构：False" />
+    <field content="作者全名： Kazi M." />
+    <field content="是否为作者机构：False" />
+    <field content="Keywords： Bayesian approach; MANET; intrusion detection system" />
+    <field content="题录页面范围： 187-190" />
+    <field content="题录出版地： New York, NY, USA" />
+    <field content="题录出版社： ACM" />
+  </item>
+</case>
